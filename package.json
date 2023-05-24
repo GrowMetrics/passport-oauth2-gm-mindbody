@@ -19,14 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
-  },
-  "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "https://github.com/GrowMetrics/passport-oauth2-gm-mindbody"
   },
   "license": "MIT",
   "licenses": [
