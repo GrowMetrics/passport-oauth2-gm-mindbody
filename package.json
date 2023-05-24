@@ -1,7 +1,7 @@
 {
   "name": "passport-oauth2-gm-mindbody",
-  "version": "1.7.0",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "version": "1.7.1",
+  "description": "OAuth 2.0 authentication strategy for Passport with Mindbody, forked from 1.7 passport-oauth.",
   "keywords": [
     "passport",
     "auth",
@@ -13,9 +13,9 @@
     "oauth2"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "dev-growmetrics",
+    "email": "info@growmetrics.com",
+    "url": "http://www.growmetrics.com/"
   },
   "repository": {
     "type": "git",
